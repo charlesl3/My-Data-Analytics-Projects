@@ -8,7 +8,9 @@ No fancy tricks—just the basic skills that **EVERY data analyst SHOULD know**!
 [College Major](./College%20Major)
 
 ## Programming Language Popularity 
+[Programming Language Popularity](./Programming%20Language%20Popularity )
 ## LEGO Analysis
+[LEGO Analysis](./LEGO%20Analysis)
 ### Key Questions:
 
 - **What is the most enormous LEGO set ever created and how many parts did it have?**
