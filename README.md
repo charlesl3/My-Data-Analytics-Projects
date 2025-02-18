@@ -4,13 +4,11 @@ Please follow the order of these projects, as some of them may require prerequis
 
 No fancy tricks—just the basic skills that **EVERY data analyst SHOULD know**!
 
-## College Major Data
-[College Major](./College%20Major)
+## College Major Data [go to folder](./College%20Major)
 
-## Programming Language Popularity 
-[Programming Language Popularity](./Programming%20Language%20Popularity )
-## LEGO Analysis
-[LEGO Analysis](./LEGO%20Analysis)
+
+## Programming Language Popularity [go to folder](./Programming%20Language%20Popularity )
+## LEGO Analysis [go to folder](./LEGO%20Analysis)
 ### Key Questions:
 
 - **What is the most enormous LEGO set ever created and how many parts did it have?**
@@ -19,7 +17,7 @@ No fancy tricks—just the basic skills that **EVERY data analyst SHOULD know**!
 - **When did the LEGO company really expand its product offering? Can we spot a change in the company strategy based on how many themes and sets it released year-on-year?**
 - **Did LEGO sets grow in size and complexity over time? Do older LEGO sets tend to have more or fewer parts than newer sets?**
 
-## Google Search Trends Data
+## Google Search Trends Data [go to folder](./Google%20Search%20Trends%20Data)
 
 Google Trends gives us an estimate of search volume. Let's explore if search popularity relates to other kinds of data. Perhaps there are patterns in Google's search volume and the price of Bitcoin or a hot stock like Tesla. Perhaps search volume for the term "Unemployment Benefits" can tell us something about the actual unemployment rate?
 
