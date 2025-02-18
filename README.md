@@ -1,7 +1,7 @@
-# My-Data-Analytics-Projects
+# **My Data Analytics Projects**
 
-## College Major Data Exploration
-## Data Mining in Programming Language Popularity 
+## College Major Data
+## Programming Language Popularity 
 ## LEGO Analysis
 ### Key Questions:
 
