@@ -1,5 +1,9 @@
 # **My Data Analytics Projects**
 
+Please follow the order of these projects, as some of them may require prerequisites from the previous ones. Once you have finished all these mini-projects, I can guarantee that your mastery of Pandas DataFrames will be elevated to the next level! 
+
+No fancy tricks—just the basic skills that **EVERY data analyst SHOULD know**!
+
 ## College Major Data
 ## Programming Language Popularity 
 ## LEGO Analysis
