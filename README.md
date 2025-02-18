@@ -1,4 +1,4 @@
-# **My Data Analytics Projects**
+# **My Data Analytics Projects - all you need to sharpen your skills with Pandas**
 
 Please follow the order of these projects, as some of them may require prerequisites from the previous ones. Once you have finished all these mini-projects, I can guarantee that your mastery of Pandas DataFrames will be elevated to the next level! 
 
