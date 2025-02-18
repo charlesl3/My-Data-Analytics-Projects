@@ -5,7 +5,7 @@ Please follow the order of these projects, as some of them may require prerequis
 No fancy tricks—just the basic skills that **EVERY data analyst SHOULD know**!
 
 ## College Major Data
-[College Major](./path/to/folder)
+[College Major](./My-Data-Analytics-Projects)
 ## Programming Language Popularity 
 ## LEGO Analysis
 ### Key Questions:
