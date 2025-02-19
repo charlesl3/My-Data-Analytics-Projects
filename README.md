@@ -28,3 +28,12 @@ Google Trends gives us an estimate of search volume. Let's explore if search pop
 - **Yahoo Finance** for Bitcoin Stock Price
 
 ## 5. Google App Download [go to folder](./Google%20App%20Download)
+
+### Key Questions:
+
+- **How competitive different app categories (e.g., Games, Lifestyle, Weather) are**
+- **Which app category offers compelling opportunities based on its popularity**
+- **How many downloads you would give up by making your app paid vs. free**
+- **How much you can reasonably charge for a paid app**
+- **Which paid apps have had the highest revenue**
+- **How many paid apps will recoup their development costs based on their sales revenue**
