@@ -7,7 +7,7 @@ No fancy tricks—just the basic skills that **EVERY data analyst SHOULD know**!
 ## 1. College Major Data [go to folder](./College%20Major)
 
 
-## 2. Programming Language Popularity [go to folder](./Programming%20Language%20Popularity )
+## 2. Programming Language Popularity [go to folder](./Programming%20Language%20Popularity)
 ## 3. LEGO Analysis [go to folder](./LEGO%20Analysis)
 ### Key Questions:
 
@@ -26,3 +26,5 @@ Google Trends gives us an estimate of search volume. Let's explore if search pop
 - **Google Trends**
 - **Yahoo Finance** for Tesla Stock Price
 - **Yahoo Finance** for Bitcoin Stock Price
+
+## 5. Google App Download [go to folder](./Google%20App%20Download)
