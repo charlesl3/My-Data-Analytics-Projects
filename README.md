@@ -39,3 +39,13 @@ Google Trends gives us an estimate of search volume. Let's explore if search pop
 - **How many paid apps will recoup their development costs based on their sales revenue**
 
 ## 6. Computation with NumPy [go to folder](./Computation%20with%20NumPy)
+
+### Key Questions:
+
+- **How to leverage the power 💪 of NumPy's ndarrays**  
+- **How to access individual values and subsets inside an n-dimensional array**  
+- **How broadcasting 📣 works with ndarrays**  
+- **How to do linear algebra with NumPy**  
+- **How to generate points that you can plot on a chart**  
+- **How to manipulate images as ndarrays**  
+
