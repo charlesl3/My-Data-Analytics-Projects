@@ -37,3 +37,5 @@ Google Trends gives us an estimate of search volume. Let's explore if search pop
 - **How much you can reasonably charge for a paid app**
 - **Which paid apps have had the highest revenue**
 - **How many paid apps will recoup their development costs based on their sales revenue**
+
+## 6. Computation with NumPy [go to folder](./Computation%20with%20NumPy)
