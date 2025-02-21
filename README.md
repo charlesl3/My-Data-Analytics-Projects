@@ -50,3 +50,14 @@ Google Trends gives us an estimate of search volume. Let's explore if search pop
 - **How to manipulate images as ndarrays**  
 
 ## 7. Seaborn and Linear Regression with Movie Data [go to folder](./Seaborn%20and%20Linear%20Regression%20with%20Movie%20Data) 
+
+The question we want to answer today is: **Do higher film budgets lead to more revenue in the box office?**  
+In other words, **should a movie studio spend more on a film to make more?** 🤔  
+
+### Key Questions:
+
+- **How to unleash the power ⚡ of Seaborn for data visualization**  
+- **How to run and interpret 📈 a linear regression with scikit-learn**  
+- **How to plot a regression scatter plot 📊 to visualize relationships in data**  
+- **How to add a third dimension 🔵 to a scatter plot to create a bubble chart**  
+- **How to cleverly use floor division // 🤓 to convert your data**  
