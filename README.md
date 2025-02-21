@@ -49,3 +49,4 @@ Google Trends gives us an estimate of search volume. Let's explore if search pop
 - **How to generate points that you can plot on a chart**  
 - **How to manipulate images as ndarrays**  
 
+## 7. Seaborn and Linear Regression with Movie Data [go to folder](./Seaborn%20and%20Linear%20Regression%20with%20Movie%20Data) 
