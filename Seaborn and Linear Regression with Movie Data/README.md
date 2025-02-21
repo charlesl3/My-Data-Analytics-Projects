@@ -1,12 +1,11 @@
-## Learning Points & Summary 📝  
+# Learning Points & Summary  
 
-Today was a pretty packed lesson where we introduced a lot of new concepts. In this lesson, we explored how to:  
+- Used **nested loops** to remove unwanted characters from multiple columns.  
+- Filtered **Pandas DataFrames** based on multiple conditions using both `.loc[]` and `.query()`.  
+- Created **bubble charts** using the Seaborn library.  
+- Styled **Seaborn charts** using pre-built styles and modified Matplotlib parameters.  
+- Used **floor division (`//`)** to convert years to decades.  
+- Superimposed a **linear regression** over our data using Seaborn.  
+- Evaluated regression quality based on **model fit and the r-squared metric**.  
+- Ran **regressions with scikit-learn** and calculated the coefficients.  
 
-- **Use nested loops 🔄 to remove unwanted characters from multiple columns**  
-- **Filter Pandas DataFrames 📊 based on multiple conditions using both `.loc[]` and `.query()`**  
-- **Create bubble charts 🔵 using the Seaborn library**  
-- **Style Seaborn charts 🎨 using pre-built styles and by modifying Matplotlib parameters**  
-- **Use floor division (`//`) ➗ to convert years to decades**  
-- **Use Seaborn to superimpose a linear regression 📈 over our data**  
-- **Make a judgment 🤔 on our regression’s quality based on model fit and the r-squared metric**  
-- **Run regressions with scikit-learn 🤖 and calculate the coefficients**  
