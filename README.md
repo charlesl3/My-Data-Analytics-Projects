@@ -4,6 +4,8 @@ Please follow the order of these projects, as some of them may require prerequis
 
 No fancy tricks—just the basic skills that **EVERY data analyst SHOULD know**!
 
+Note: you **DO NOT** need to go through the basics of Pandas before getting into these mini projects - each is instructional and will direct you through the learning journey. YOU LEARN FROM FINISHING PROJECTS!
+
 ## 1. College Major Data [go to folder](./College%20Major)
 
 
