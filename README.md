@@ -63,3 +63,6 @@ In other words, **should a movie studio spend more on a film to make more?** �
 - **How to plot a regression scatter plot 📊 to visualize relationships in data**  
 - **How to add a third dimension 🔵 to a scatter plot to create a bubble chart**  
 - **How to cleverly use floor division // 🤓 to convert your data**  
+
+
+## 8. Nobel Prize Analysis [go to folder](./Nobel%20Prize%20Analysis) 
