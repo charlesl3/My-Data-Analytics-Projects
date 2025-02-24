@@ -78,7 +78,16 @@ In other words, **should a movie studio spend more on a film to make more?** ðŸ¤
 
 
 
+## 8. Dr Semmelweis Analysis  [go to folder](./Dr%20Semmelweis%20Analysis) 
 
+### Key Questions:
 
+- **Make a compelling argument using data.**  
+- **Superimpose histograms to show differences in distributions.**  
+- **Use a Kernel Density Estimate (KDE) to show a graphic estimate of a distribution.**  
+- **Use `scipy` and test for statistical significance by looking at p-values.**  
+- **Highlight different parts of a time series chart in Matplotlib.**  
+- **Add and configure a Legend in Matplotlib.**  
+- **Use NumPy's `.where()` function to process elements depending on a condition.**  
 
 
