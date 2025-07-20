@@ -1,5 +1,5 @@
 
-# 🏫 School Subject Coverage Analysis (Pandas Pipeline)
+# 🏫 School Subject Coverage Analysis (from Bayview OA)
 
 This notebook-style workflow analyzes subject coverage across schools and states based on a raw dataset where subjects are space-separated strings. The goal is to clean and transform the data to show how many schools in each state offer key subjects.
 
